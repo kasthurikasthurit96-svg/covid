@@ -151,8 +151,17 @@ COVID-Data-Analysis/
 
 **Output Overview:**
 
+<img width="798" height="599" alt="image" src="https://github.com/user-attachments/assets/64703014-d1f1-4f38-8e82-42c6d1485c55" />
 
+<img width="1259" height="750" alt="image" src="https://github.com/user-attachments/assets/cd3d4286-13e9-4ffe-96c0-dffbcc28ab28" />
 
+<img width="1137" height="846" alt="image" src="https://github.com/user-attachments/assets/eb7a38c1-d2fc-40ba-aac8-c390ecab2ab1" />
+
+<img width="1190" height="749" alt="image" src="https://github.com/user-attachments/assets/11df4d0b-f119-4650-92fc-dcaace7b452a" />
+
+<img width="858" height="661" alt="image" src="https://github.com/user-attachments/assets/abea6941-5a6a-4a5d-8314-065c50ccd1ed" />
+
+<img width="1630" height="659" alt="image" src="https://github.com/user-attachments/assets/36a42b2c-1733-4f87-b6ea-62c85fb043e8" />
 
 
  **Conclusion**
